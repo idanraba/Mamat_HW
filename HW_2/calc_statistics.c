@@ -79,7 +79,7 @@ int main(int argc, char *argv[]) {
     fprintf(culc, "avg = %.3f\n", avg);
     fprintf(culc, "the median is - %d\n", median);
     fprintf(culc, "max grade = %d, min grade = %d\n",
-    											 max_student, min_student);
+    	    max_student, min_student);
     fprintf(culc, "pass rate = %.2f%%\n", pass_precent);
 
     for (int i = 0; i < MAX; i++){
