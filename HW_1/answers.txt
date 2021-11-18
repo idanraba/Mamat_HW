@@ -1,0 +1,7 @@
+1 - i think that will be a day or  two.
+2- conclusions:
+script writing with bash is very efficient for working with a lot of data 
+the idea is to find stock and a specific sectors in low cost that we would like to buy .
+3-If i wanted to redo the action once in an hour, i could set a timer for every hour and reactive the script.
+To do so automatic in bash, i would use the command "crontab" with 0**/home/mamat/Mamat_HW/scrape_players.sh
+We deal with the football players that still in our code with pipe the older file with the new file, and grep-v that printing the lines that are not shown anymore.
